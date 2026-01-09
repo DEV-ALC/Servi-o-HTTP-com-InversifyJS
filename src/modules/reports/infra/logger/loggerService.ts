@@ -1,4 +1,3 @@
-// logger.service.ts
 import { injectable } from "inversify";
 import { ILogger } from "../../domain/interfaces/logger.interface";
 import winston from "winston";
